@@ -6,6 +6,10 @@ namespace circlecalc
     {
         static void Main(string[] args)
         {
+
+            
+
+            
             //create our new instance 
             Circle circleCalc = new Circle();
 
